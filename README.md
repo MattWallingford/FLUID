@@ -1,4 +1,4 @@
-Data to run InTheWild is coming soon. 
+\bf{Data to run InTheWild is coming soon.}
 
 
 Running the code:
