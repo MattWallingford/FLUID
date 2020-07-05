@@ -1,4 +1,4 @@
-/textbf{Data for running the InTheWild repository is coming soon.}
+\textbf{Data for running the InTheWild repository is coming soon.}
 
 
 Running the code:
